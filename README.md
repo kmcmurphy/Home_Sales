@@ -1,1 +1,2 @@
-# Home_Sales
+# Home Sales Analysis
+In this project, SparkSQL is used to analyze key metrics about home sales data. The activity is not focused on the data or analysis as much as using tools to create temporary views, partition data and cache/uncache tables to analyze overall perfomance when menthods like this are employed. Just a hint, even on a dataset this small, a nearly 50% improvement in performance was observed.
